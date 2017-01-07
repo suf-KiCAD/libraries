@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP POT_TRIM
+D Potentionmetre
+K R
+$ENDCMP
+#
+$CMP R_PACK8_BUS
+D 8 resistors Pack
+K R DEV
+$ENDCMP
+#
+#End Doc Library

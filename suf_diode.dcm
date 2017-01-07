@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS70TW
+D Diode Schottky
+$ENDCMP
+#
+$CMP BRIDGE_1
+D Pont de Diodes
+K Pont Diode
+$ENDCMP
+#
+#End Doc Library
