@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP185(SE
+D DC Optocoupler, Vce 80V, CTR 50-100%, MFSOP6
+K NPN DC Optocoupler
+F http://www.semicon.toshiba.co.jp/docs/datasheet/en/Opto/TLP185_en_datasheet_120214.pdf
+$ENDCMP
+#
+#End Doc Library

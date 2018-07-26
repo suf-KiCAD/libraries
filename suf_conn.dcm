@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JACK_3,5_5PINS_TnT
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+$CMP Micro_USB_B
+D USB Type B connector
+K connector USB
+$ENDCMP
+#
+#End Doc Library
