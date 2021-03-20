@@ -6,10 +6,28 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP AZ1117-ADJ_0
+D 1A 20V Adjustable LDO Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Adjustable Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
 $CMP LD1117V33
 D LD1117S33TR, 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT223
 K REGULATOR LDO 3.3V
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LM317_SOT223
+D 1A 35V Adjustable Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Adjustable Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP LM329
+D Zener Diode
+K diode
+F ~
 $ENDCMP
 #
 $CMP LM7805
@@ -31,7 +49,7 @@ F regulator\lm78xx.pdf
 $ENDCMP
 #
 $CMP LP2980
-D MICROPOWER 150mA Regulator 
+D MICROPOWER 150mA Regulator
 K REGUL POWER  SOT-23-5
 F regulator/LP2985.pdf
 $ENDCMP

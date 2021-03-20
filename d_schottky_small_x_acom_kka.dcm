@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_Schottky_Small_x_ACom_KKA
+D Schottky diode, small symbol
+K diode Schottky
+F ~
+$ENDCMP
+#
+$CMP D_Schottky_Small_x_KCom_AAK
+D Schottky diode, small symbol
+K diode Schottky
+F ~
+$ENDCMP
+#
+#End Doc Library
